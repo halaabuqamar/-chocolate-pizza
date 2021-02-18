@@ -1,0 +1,155 @@
+input {
+    display: block;
+    box-sizing: border-box;
+}
+#top {
+    font-family: 'Lobster', cursive;
+    font-size: 180%;
+    margin-bottom: 0px;
+}
+
+#firstpic{
+    float: left;
+    
+}
+
+#gray {
+    font-family: 'Sintony', sans-serif;
+    font-size: xx-small;
+    color: grey;
+   
+}
+
+hr{
+    border-top: 20px solid #8c8b8b;
+}
+
+
+
+
+.SM {
+    position: relative;
+    right: -1130px;
+    top: -66px;
+}
+
+
+ h2{
+    font-family: 'Ranchers', cursive;
+   font-size: 300%;
+   margin-bottom: 0px;
+ }
+ 
+ #grey2{
+    font-family: 'Sintony', sans-serif;
+    font-size: 100%;
+    color: rgb(213, 200, 200);
+    margin-top: 0px;
+    
+ }
+
+
+ #pizza{
+     width: 100%;
+ }
+
+ .smallp{
+     float:right;
+ }
+ 
+ #pi{
+    float: right;
+    margin-bottom: 30px;
+    margin-top: 0px;
+    color: rgb(196, 196, 196);
+    font-size: x-small;
+
+ }
+ #pp{
+     float:right;
+     margin-right:0px;
+     }
+
+     main div{
+        text-align: left;
+        color: rgb(130, 128, 128);
+        font-size: 120%;
+     }
+
+
+
+     .container {
+        position: relative;
+      }
+      
+      
+      .text-block {
+        position: absolute;
+        bottom: 200px;
+       top: 0px;
+        left: 40px;
+        font-family: 'Indie Flower', cursive;
+        color: rgb(94, 94, 94);
+        padding-left: 50px;
+        padding-right: 20px;
+        padding-bottom: 0px;
+        padding-top: 0;
+        font-size: 150%;
+        line-height: 150%;
+        
+      }
+
+
+
+      .text-block2 {
+        position: absolute;
+        bottom:100px;
+       top:1515px;
+        right:20px;
+        font-family: 'Indie Flower', cursive;
+        color: rgb(94, 94, 94);
+        font-size: 150%;
+        
+      }
+
+   
+    h3{
+        color: rgb(58, 58, 58);
+    }
+    .vane{
+        float: right;
+    
+    margin-top:-20px;
+    margin-right: 350px;
+    }
+
+
+    button{
+        float: right;
+    margin-right: 50px;
+    margin-bottom: 700px;
+    margin-top: -85px;
+    background-color: #c9504c;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  
+  font-size: 16px;
+ 
+  cursor: pointer;
+}
+    
+hr{
+    border-top: 20px solid #8c8b8b;
+}
+footer{
+margin-top:100px;
+margin-left: 250px;
+color:rgb(220, 220, 220);
+text-align: center;
+}
+#foot{
+   
+}
