@@ -127,7 +127,7 @@ hr{
     button{
         float: right;
     margin-right: 50px;
-    margin-bottom: 700px;
+    margin-bottom: 280px;
     margin-top: -85px;
     background-color: #c9504c;
   border: none;
@@ -145,11 +145,15 @@ hr{
     border-top: 20px solid #8c8b8b;
 }
 footer{
+position:relative;
 margin-top:100px;
-margin-left: 250px;
+margin-left: 100px;
+margin-bottom: 100px;
+margin-right: 100px;
+padding-bottom: 0px;
 color:rgb(220, 220, 220);
 text-align: center;
+bottom: 0;
+
 }
-#foot{
-   
-}
+
